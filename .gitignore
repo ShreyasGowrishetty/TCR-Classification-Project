@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/esm_embeddings_train.pkl
+models/esm_embeddings_test.pkl
